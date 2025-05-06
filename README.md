@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/ea0027a9-55bf-4090-a35d-d4d6c2c3749e)
 # 👋 Olá, sou o Albert!
 
 ## 👨‍💻 Autodidata em Tecnologia | 🤖 Entusiasta de Robótica | 🎨 Designer Criativo
