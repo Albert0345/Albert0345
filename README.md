@@ -1,6 +1,15 @@
 ![Image](https://github.com/user-attachments/assets/ea0027a9-55bf-4090-a35d-d4d6c2c3749e)
 # 👋 Olá, sou o Albert!
 
+<div align="center">
+  <!-- Estatísticas de contribuição -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albert0345&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert0345&layout=compact&langs_count=6&theme=radical" />
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
