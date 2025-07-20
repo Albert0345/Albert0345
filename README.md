@@ -3,6 +3,43 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Matheus+Rocha;I+study+analysis+and+systems+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<h1 align="center">👋 Olá, eu sou o Albert Rocha</h1>
+
+<p align="center">
+Desenvolvedor FullStack autodidata com foco em criar soluções úteis, funcionais e acessíveis.<br>
+Apaixonado por tecnologia, programação e projetos práticos que fazem a diferença no dia a dia.
+</p>
+
+---
+
+### 🚀 O que você vai encontrar aqui:
+
+- Aplicações web modernas com **HTML, CSS, JavaScript e frameworks como React**
+- Scripts e automações em **Python**
+- Projetos envolvendo **robótica, Arduino e hardware**
+- Repositórios organizados com código limpo e documentação clara
+
+---
+
+### 🧠 Em constante aprendizado
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Estrutura e lógica de aplicações web
+- APIs REST e integração entre Front e Back-End
+- Boas práticas de versionamento com Git e GitHub
+- Testes, documentação e deploy de aplicações reais
+
+---
+
+### 🤝 Vamos nos conectar?
+
+- 📫 Email: seuemail@email.com  
+- 💼 LinkedIn: [seulinkedin](https://linkedin.com/in/seulinkedin)  
+- 📷 Instagram: [@seuinsta](https://instagram.com/seuinsta)
+
+---
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Albert0345&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Albert Matheus Rocha github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert0345&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -16,8 +53,8 @@
 
  
 ### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
  
@@ -35,10 +72,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -58,12 +92,6 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div>
-
-
-
-<p align="center">
-  <img src="https://i.imgur.com/zPepxrV.gif" width="1000" height="720" />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
