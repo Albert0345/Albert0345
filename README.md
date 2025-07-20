@@ -32,13 +32,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-### 🤝 Vamos nos conectar?
-
-- 📫 Email: seuemail@email.com  
-- 💼 LinkedIn: [seulinkedin](https://linkedin.com/in/seulinkedin)  
-- 📷 Instagram: [@seuinsta](https://instagram.com/seuinsta)
-
----
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Albert0345&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Albert Matheus Rocha github stats"/> 
@@ -90,7 +83,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albert0345}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
